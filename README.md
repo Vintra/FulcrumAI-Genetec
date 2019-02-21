@@ -2,27 +2,9 @@
 
 Genetec plugin to interact with Vintra System. 
 
-# Dependencies - for development
-
-- Windows Machine
-- [Genetec SDK](https://downloadcenter.genetec.com/products/SecurityCenter/5.7/GA/SDK/Security_Center_v_5_7_GA_b374_105_SDK.exe)
-- [Genetec Security Desk 5.7+](https://portal.genetec.com/support/SystemManagement/DownloadSection)
-- Install [Rider](https://www.jetbrains.com/rider/download/#section=windows) (or Visual Studio)
-- Clone the [repository of plugin](https://github.com/Vintra/genetec-plugin)
-
-# Compile it
-
-Clone this repository.
-
-```
-git clone https://github.com/Vintra/genetec-plugin
-```
-
-The next step is open the project with Ryder (or Visual Studio), update the code, compile it and build the solution. After that the compiled files, and all necesary files to install in a production will be available in debug (or Release) folder inside bin folder.
-
 # Installation
 
-Download the last version of setup file from [releases](https://github.com/Vintra/genetec-plugin/releases)
+Download the last version of setup file from [releases](https://github.com/Vintra/FulcrumAI-Genetec/releases)
 
 Be sure that your Security Desk is closed.
 
