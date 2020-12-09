@@ -10,6 +10,13 @@ Be sure that your Security Desk is closed.
 
 Run with administrator permisions the setup file. You can do it clicking (right button) on Vintra.Plugin.exe file and select "Execute as administrator". This will install the plugin in your system.
 
+Install the CA certificate
+
+Get the file from Vintra Server `ca.crt` located on `/opt/vintra/config/test_certs/ca.crt`
+
+Copy it on a USB drive and connect to the client machine. Install it under `Trusted Root Certification Authorities` location.
+
+
 # Getting Started
 
 
