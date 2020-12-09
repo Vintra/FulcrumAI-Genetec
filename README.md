@@ -4,13 +4,14 @@ Genetec plugin to interact with Vintra System.
 
 # Installation
 
+### Install the Module
 Download the last version of setup file from [releases](https://github.com/Vintra/FulcrumAI-Genetec/releases)
 
 Be sure that your Security Desk is closed.
 
 Run with administrator permisions the setup file. You can do it clicking (right button) on Vintra.Plugin.exe file and select "Execute as administrator". This will install the plugin in your system.
 
-Install the CA certificate
+### Install the CA certificate:
 
 Get the file from Vintra Server `ca.crt` located on `/opt/vintra/config/test_certs/ca.crt`
 
