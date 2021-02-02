@@ -17,6 +17,10 @@ Get the file `ca.crt` from Vintra Server located on `/opt/vintra/config/test_cer
 
 Copy it on a USB drive and connect to the client machine. Install it under `Trusted Root Certification Authorities` location.
 
+### IMPORTANT note: default browser
+
+If you plan to use FulcrumAI to push alarms to Genetec, you must ensure Google Chrome is not the default browser of the OS due to known conflicts - any other browser will work.
+
 
 # Getting Started
 
